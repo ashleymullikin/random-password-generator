@@ -23,6 +23,6 @@ Acknowledgements:
 
 The UNC bootcamp staff, especially the TAs and this week Caleb in particular, stack exchange, mozilla developer, and of course Google.
 
-live link: https://ashleymullikin.github.io/password-generator/
+live link: https://ashleymullikin.github.io/random-password-generator/
 
-github link: https://github.com/ashleymullikin/password-generator
+github link: https://github.com/ashleymullikin/random-password-generator
